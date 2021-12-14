@@ -10,7 +10,7 @@ Tested in ubuntu +  GTX 1080Ti with cuda (>=8.0) and cudnn (>=5.0).
 
 ## Datasets
 Human3.6M, CMU-Mocap, 3DPW.
-the processed datafile will be available at: 
+the processed datafile will be available at: https://pan.baidu.com/s/1iVsvRC_PUeteY3Oi50teHA （password：123a）
 
 ## Training
 Use the `scripts/h36m/TrajectoryCNN_short_term_train.sh` or `scripts/h36m/TrajectoryCNN_long_term_train.sh` script to train/test the model on Human3.6M dataset for short-term or long-term predictions by the following commands:
