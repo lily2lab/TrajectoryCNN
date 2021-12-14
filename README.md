@@ -6,7 +6,7 @@ Xiaoli Liu, Jianqin Yin, Jin Liu, Pengxiang Ding, Jun Liu, and Huaping Liu. Traj
 
 ## Setup
 Required python libraries: tensorflow (>=1.0) + opencv + numpy.
-Tested in ubuntu/centOS + nvidia titan X (Pascal) with cuda (>=8.0) and cudnn (>=5.0).
+Tested in ubuntu +  GTX 1080Ti with cuda (>=8.0) and cudnn (>=5.0).
 
 ## Datasets
 Human3.6M, CMU-Mocap, 3DPW.
