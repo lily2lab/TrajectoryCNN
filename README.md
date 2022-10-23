@@ -17,7 +17,7 @@ the processed data file will be available at: https://pan.baidu.com/s/1iVsvRC_PU
 Human3.6M dataset: 30,29,27,26,25,17,18,19,21,22,15,14,13,12,7,8,9,10,2,3,4,5,  16,20,23,24,28,31,   0,1,6,11
 CMU-Mocap dataset: 38,36,35,33,32,31,22,23,24,26,27,29,    20,19,18,16,15,   10,11,12,13, 4,5,6,7,    1,2,3,8,9,14,  17,21,30,25,28,34,37
 3DPW dataset: 23,21,19,17,14,13,16,18,20,22,   15,12,9,6,3,  2,5,8,11, 1,4,7,10,  0
-'''
+```
 
 ## Training/Testing
 Use the `scripts/h36m/TrajectoryCNN_short_term_train.sh` or `scripts/h36m/TrajectoryCNN_long_term_train.sh` script to train/test the model on Human3.6M dataset for short-term or long-term predictions by the following commands:
