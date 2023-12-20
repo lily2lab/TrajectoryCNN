@@ -34,7 +34,7 @@ If you use this code for your research, please consider citing:
 ```latex
 @article{liu2020trajectorycnn,
   title={TrajectoryCNN: a new spatio-temporal feature learning network for human motion prediction},
-  author={Liu, Xiaoli and Yin, Jianqin and Liu, Jin and Ding, Pengxiang and Liu, Jun and Liub, Huaping},
+  author={Liu, Xiaoli and Yin, Jianqin and Liu, Jin and Ding, Pengxiang and Liu, Jun and Liu, Huaping},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2020},
   publisher={IEEE}
